@@ -12,3 +12,4 @@
 /home/miku/Музыка/ch/obj/Debug/net8.0/ch.pdb
 /home/miku/Музыка/ch/obj/Debug/net8.0/ch.genruntimeconfig.cache
 /home/miku/Музыка/ch/obj/Debug/net8.0/ref/ch.dll
+/home/miku/Музыка/ch/obj/Debug/net8.0/ch.sourcelink.json

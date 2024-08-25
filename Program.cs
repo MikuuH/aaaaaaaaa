@@ -9,8 +9,9 @@ namespace Actions
             Console.WriteLine("Выберите действие:");
             Console.WriteLine("1 - Показать таблицу умножения");
             Console.WriteLine("2 - Проверка на простоту");
-            Console.WriteLine("3 - Фибоначчи (кто это..)");
-1
+            Console.WriteLine("3 - Фибоначчи кто это");
+            Console.WriteLine("4 - какие то делители");
+
             string choice = Console.ReadLine();
 
             switch (choice)
@@ -25,6 +26,10 @@ namespace Actions
                     break;
                 case "3":
                     Fichan.Fichans();
+                    break;
+                case "4":
+                    divider.dividers();
+                    break;
                 default:
                     Console.WriteLine("Неизвестный выбор.");
                     break;
