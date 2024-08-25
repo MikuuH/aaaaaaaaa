@@ -1,0 +1,14 @@
+/home/miku/Музыка/ch/bin/Debug/net8.0/ch
+/home/miku/Музыка/ch/bin/Debug/net8.0/ch.deps.json
+/home/miku/Музыка/ch/bin/Debug/net8.0/ch.runtimeconfig.json
+/home/miku/Музыка/ch/bin/Debug/net8.0/ch.dll
+/home/miku/Музыка/ch/bin/Debug/net8.0/ch.pdb
+/home/miku/Музыка/ch/obj/Debug/net8.0/ch.GeneratedMSBuildEditorConfig.editorconfig
+/home/miku/Музыка/ch/obj/Debug/net8.0/ch.AssemblyInfoInputs.cache
+/home/miku/Музыка/ch/obj/Debug/net8.0/ch.AssemblyInfo.cs
+/home/miku/Музыка/ch/obj/Debug/net8.0/ch.csproj.CoreCompileInputs.cache
+/home/miku/Музыка/ch/obj/Debug/net8.0/ch.dll
+/home/miku/Музыка/ch/obj/Debug/net8.0/refint/ch.dll
+/home/miku/Музыка/ch/obj/Debug/net8.0/ch.pdb
+/home/miku/Музыка/ch/obj/Debug/net8.0/ch.genruntimeconfig.cache
+/home/miku/Музыка/ch/obj/Debug/net8.0/ref/ch.dll
